@@ -1,5 +1,7 @@
 package com.neo.model;
 
+import org.springframework.data.mongodb.core.index.Indexed;
+
 import java.io.Serializable;
 
 /**
